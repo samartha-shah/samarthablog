@@ -84,7 +84,7 @@ const BlogApp: React.FC = () => {
 
   return (
     <div style={{ padding: '20px', fontFamily: 'Arial, sans-serif', maxWidth: '800px', margin: '0 auto' }}>
-      <h1 style={{ textAlign: 'center' }}>Samartha's Blog</h1>
+      <h1 style={{ textAlign: 'center' }}>Samartha Blog</h1>
 
       {/* Form */}
       <div style={{ marginBottom: '20px' }}>
