@@ -76,7 +76,7 @@ button:hover {
 
 .edit {
   background-color: #f1c40f;
-  color: black;
+  color: rgb(255, 0, 0);
 }
 
 .delete {
